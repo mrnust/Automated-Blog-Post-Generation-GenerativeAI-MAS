@@ -1,0 +1,8 @@
+crewai
+crewai_tools
+load_dotenv
+langchain-google-genai
+duckduckgo-search
+langchain-community
+streamlit
+asyncio  
